@@ -6,3 +6,5 @@ To present the effect of clustering the data onto the association rules. Hence, 
 Predicting from a sparse matrix using algorithms like ARM are quite expensive and it takes a lot of time and space but using Clustering with ARM we can predict in Big O(n)+2k time where k is frequent item sets.
 
 
+Project(1).pdf contains all the information and ways in which we carried out or project in detailed manner.
+Final_Year_Project.pdf is our final paper covering all details in concise manner.
